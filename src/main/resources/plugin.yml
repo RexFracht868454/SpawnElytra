@@ -1,0 +1,5 @@
+name: SpawnElytra
+version: '${project.version}'
+main: rexfracht868454.spawnelytra.SpawnElytra
+api-version: 1.19
+author: RexFracht868454
