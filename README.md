@@ -1,6 +1,6 @@
 # SpawnElytra
 
-Configurable plugin that allows players to activate Elytra flying within a certain radius of the spawn. In addition, it allows you to use a pre-set boost.
+Configurable plugin that allows players to activate elytra flying within a certain radius of the spawn. In addition, it allows you to use a pre-set boost.
 You can setup this plugin in the config.yml file.
 
 **config.yml:**
